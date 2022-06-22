@@ -1,5 +1,5 @@
 {
-      "name": "Amelia Robot",
+      "name": "Hinata",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,9 +9,9 @@
          "Amelia"
       ],
     
-   "logo":    "https://telegra.ph/file/329647a798cccb101aecf.jpg",
+   "logo":    "https://te.legra.ph/file/d1ccc90659b4d323ddf32.jpg",
 
-   "repository": "https://github.com/xabhish3k/AmeliaRoBot",
+   "repository": "https://github.com/UnoDark/AmeliaRoBot",
    "addons": [
           {
          "options": {
